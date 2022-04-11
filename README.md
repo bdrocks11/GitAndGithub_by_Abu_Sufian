@@ -17,3 +17,7 @@ there are other commands:
 git branch, git checkout, git clean, git clone, git config ---> from this list i have used some of the commands as well. 
 
 
+to create a new branch i have used the command:
+
+git checkout -b "..." ---> this created a new branch and made it my current working branch for now. unless i want to swith then all i have to do is
+git checkout -b "..." <-- the branch name you want to switch to.
